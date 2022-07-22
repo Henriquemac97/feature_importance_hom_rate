@@ -2,6 +2,7 @@
 ## 1) Entendimento do problema
 ### 1.1) Contexto do problema
 A violência urbana é um problema enfrentado em muitas partes do mundo, em que questões históricas, políticas, culturais e econômicas contribuem para o seu aumento.
+
 Um dos indicadores mais utilizados para medir a violência é a taxa de homicídios, que é o número de homicídios que ocorrem em um ano para cada 100.000 habitantes. De acordo com o relatório anual da ONG mexicana Seguridad, Justicia y Paz (2021), dos 50 municípios com as maiores taxas de homicídios do mundo, 11 são brasileiros, o que reforça como o país ainda carece de medidas voltadas para a solução dessa questão.
 ### 1.2) Objetivo
 A fim de fornecer informações que auxiliem o processo decisório em segurança pública, o presente trabalho realiza uma investigação utilizando técnicas matemáticas e estatísticas, a fim de identificar quais são as métricas mais importantes na previsão da taxa de homicídios dos municípios brasileiros.
